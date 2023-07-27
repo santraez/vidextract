@@ -1,0 +1,16 @@
+{
+  "name": "vidextract",
+  "main": "index.js",
+  "author": "santraez",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "dotenv": "^16.3.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "openai": "^3.3.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
